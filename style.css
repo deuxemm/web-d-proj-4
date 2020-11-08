@@ -8,3 +8,20 @@ h1 {
     font-family: 'Abril Fatface', cursive;
 }
 
+.jumbotron {
+    background-color: rgba(127, 255, 212, 0);
+}
+
+.drop-shadow {
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.39);
+}
+
+.lead {
+    color: white;
+    font-size: 2.2rem;
+}
+
+.btn-primary, .btn-primary:hover {
+    background-color: #00bbc9;
+    border-color: #00bbc9;
+}
